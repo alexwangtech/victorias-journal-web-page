@@ -16,4 +16,5 @@
 
 .greenBorder {
     border: 5px green solid;
+    background-color: white;
 }
