@@ -27,4 +27,6 @@
 
 body {
     background-image: url("https://swe.umbc.edu/~zzaidi1/is448/chap3-examples/lab/background.gif");
+    margin-left: 10%;
+    margin-right: 10%;
 }
