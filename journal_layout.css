@@ -34,3 +34,7 @@ body {
 #spatulaImage {
     background-color: white;
 }
+
+img {
+    margin-top: 15px;
+}
