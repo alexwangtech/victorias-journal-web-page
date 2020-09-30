@@ -24,3 +24,7 @@
     border: 5px green solid;
     background-color: white;
 }
+
+body {
+    background-image: url("https://swe.umbc.edu/~zzaidi1/is448/chap3-examples/lab/background.gif");
+}
