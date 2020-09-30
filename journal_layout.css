@@ -36,7 +36,10 @@ body {
     background-color: white;
 }
 
-/* Perhaps we can remove this later, since we are floating images to the right */
-img {
-    margin-top: 15px;
+.image {
+    float: right;
+}
+
+.spacer {
+    clear: both;
 }
