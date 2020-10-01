@@ -1,18 +1,22 @@
 .redBorder {
-    border: 5px red solid;
+    /* border: 5px red solid; */
+    background-color: #A8F0F0;
     text-align: right;
 }
 
 .orangeBorder {
-    border: 5px orange solid;
+    /* border: 5px orange solid; */
+    font-size: 14pt;
 }
 
 .purpleBorder {
-    border: 5px purple solid;
+    /* border: 5px purple solid; */
+    border-bottom: 2px blue dashed;
 }
 
 .blueBorder {
-    border: 5px blue solid;
+    /* border: 5px blue solid; */
+    border: 4px #C2E9E9 solid;
     background-color: #E8FBFB;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -22,7 +26,8 @@
 }
 
 .greenBorder {
-    border: 5px green solid;
+    /* border: 5px green solid; */
+    border: 10px white solid;
     background-color: white;
 }
 
