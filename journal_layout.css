@@ -39,3 +39,7 @@ body {
 .image {
     float: right;
 }
+
+.spacer {
+    clear: both;
+}
